@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="hin",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/shindora33/e392d344967c2f21_master/refs/heads/master/audio_0/github_playlist.m3u8?_cb=1791525538"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="tam",NAME="Tamil",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/shindora33/e392d344967c2f21_master/refs/heads/master/audio_1/github_playlist.m3u8?_cb=1791525538"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="tel",NAME="Telugu",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/shindora33/e392d344967c2f21_master/refs/heads/master/audio_2/github_playlist.m3u8?_cb=1791525538"
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,AUDIO="audio-group"
+720p/github_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=848x480,AUDIO="audio-group"
+480p/github_480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=640x360,AUDIO="audio-group"
+360p/github_360p.m3u8
